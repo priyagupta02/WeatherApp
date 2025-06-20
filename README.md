@@ -9,7 +9,7 @@ A simple JavaScript weather application that shows current weather information b
 
 ## Tech Stack
 - HTML, CSS, JavaScript
-- OpenWeatherMap API (or any API you used)
+- OpenWeatherMap API 
 
 ## How to Run
 1. Clone the repository
